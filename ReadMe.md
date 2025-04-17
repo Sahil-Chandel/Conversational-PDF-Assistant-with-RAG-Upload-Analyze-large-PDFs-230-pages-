@@ -39,8 +39,8 @@ Chatbot Interaction
 Getting Started
 1. Clone the Repository
 
-git clone https://github.com/yourusername/conversational-pdf-assistant.git
-cd conversational-pdf-assistant
+git clone [https://github.com/yourusername/conversational-pdf-assistant.git](https://github.com/Sahil-Chandel/Conversational-PDF-Assistant-with-RAG-Upload-Analyze-large-PDFs-230-pages-.git)
+
 
 
 2. Install Required Libraries
