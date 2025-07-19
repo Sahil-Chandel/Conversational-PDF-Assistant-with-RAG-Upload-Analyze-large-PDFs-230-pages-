@@ -100,10 +100,10 @@ Works best with text-based PDFs, not scanned documents (OCR is not included).
 Contact
 If you have any questions or need additional features, feel free to reach out!
 
-Developer: Sahil Chandel
-Phone Number9717891203
-Email: sahilchandel.anee@gmail.com
-GitHub: Sahil-Chandel GitHub
+`Developer`: `Sahil Chandel`
+`Phone Number` : `9717891203`
+`Email` : `sahilchandel.anee@gmail.com`
+
 
 This app helps you interactively analyze and extract information from PDFs using the latest advancements in AI and document processing. It's perfect for handling large documents in research, business reports,
 and any scenario where quick information extraction is key.
